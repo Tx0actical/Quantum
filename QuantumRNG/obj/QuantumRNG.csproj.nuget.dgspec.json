@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Documents\\Amit\\Quantum\\QuantumRNG\\QuantumRNG.csproj": {}
+    "c:\\Users\\ADMIN\\Documents\\Amit\\Quantum\\QuantumRNG\\QuantumRNG.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Documents\\Amit\\Quantum\\QuantumRNG\\QuantumRNG.csproj": {
+    "c:\\Users\\ADMIN\\Documents\\Amit\\Quantum\\QuantumRNG\\QuantumRNG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\Amit\\Quantum\\QuantumRNG\\QuantumRNG.csproj",
+        "projectUniqueName": "c:\\Users\\ADMIN\\Documents\\Amit\\Quantum\\QuantumRNG\\QuantumRNG.csproj",
         "projectName": "QuantumRNG",
-        "projectPath": "C:\\Users\\ADMIN\\Documents\\Amit\\Quantum\\QuantumRNG\\QuantumRNG.csproj",
+        "projectPath": "c:\\Users\\ADMIN\\Documents\\Amit\\Quantum\\QuantumRNG\\QuantumRNG.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Documents\\Amit\\Quantum\\QuantumRNG\\obj\\",
+        "outputPath": "c:\\Users\\ADMIN\\Documents\\Amit\\Quantum\\QuantumRNG\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -26,7 +26,7 @@ namespace QuantumRNG {
 
     @EntryPoint()
     operation SampleRandomNumber() : Int {
-        let max = 5000000000;
+        let max = 50;
         Message($"Sampling a random number between 0 and {max}: ");
         return SampleRandomNumberInRange(max);
     }

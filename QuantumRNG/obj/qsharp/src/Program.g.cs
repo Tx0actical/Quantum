@@ -207,7 +207,7 @@ namespace QuantumRNG
         public override Func<QVoid, Int64> __Body__ => (__in__) =>
         {
 #line 29 "C:\\Users\\ADMIN\\Documents\\Amit\\Quantum\\QuantumRNG\\Program.qs"
-            var max = 5000000000L;
+            var max = 50L;
 #line 30 "C:\\Users\\ADMIN\\Documents\\Amit\\Quantum\\QuantumRNG\\Program.qs"
             Message__.Apply(String.Format("Sampling a random number between 0 and {0}: ", max));
 #line 31 "C:\\Users\\ADMIN\\Documents\\Amit\\Quantum\\QuantumRNG\\Program.qs"
